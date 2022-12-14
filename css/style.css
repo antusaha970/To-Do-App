@@ -5,7 +5,7 @@
     background-position: center center;
 }
 
-.bgStyle{
+.bgStyle {
     height: 400px;
     width: 400px;
     background: rgba(255, 255, 255, 0.5);
@@ -17,4 +17,8 @@
     padding: 25px;
     margin: auto;
     margin-top: 40px;
+}
+
+#ulForAdd {
+    font-size: 1.2rem;
 }
